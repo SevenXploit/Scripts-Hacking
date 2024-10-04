@@ -1,6 +1,6 @@
 #!/bin/bash
 PASSWORDS_FILE="passwords.txt"
-echo -e "Cuantos hilos quieres que contemple el script?: \c" #BY ANGEL TRIPIANA SANZ
+echo -e "Cuantos hilos quieres que contemple el script?: \c" #BY S7V3N
 read THREADS
 echo 
 echo "..............................."
