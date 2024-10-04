@@ -1,1 +1,3 @@
-No me hago responsable de ningun acto el cual se le de a esté script, esté script sirve para ejercer una fuerza bruta a un usuario a la hora de escalar privilegios en las maquinas "Linux", el scrirpt redirige la contraseña una vez encontrada al archivo "passwordpwned" en la carpeta la cual se encuentre el script, el diccionario que se le debe aplicar debe llamarse "passwords" y debe estár en la misma carpeta que el script.
+No me hago responsable de ningún uso indebido de este script. Este script está diseñado para realizar ataques de fuerza bruta con el objetivo de escalar privilegios en sistemas operativos Linux.
+Cuando se encuentra una contraseña, esta se guardará en un archivo llamado "passwordpwned", que estará ubicado en la misma carpeta donde se encuentra el script.
+Para utilizar el script, necesitas un diccionario de contraseñas que debe llamarse "passwords" y también debe estar en la misma carpeta que el script.
